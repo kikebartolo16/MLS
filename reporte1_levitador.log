@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.28)  15 OCT 2021 13:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.28)  3 NOV 2021 17:32
 entering extended mode
 **./reporte1_levitador.tex
 (reporte1_levitador.tex
@@ -1343,8 +1343,8 @@ LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
  6552 strings out of 478927
- 99522 string characters out of 2851587
- 432611 words of memory out of 3000000
+ 99478 string characters out of 2851587
+ 432610 words of memory out of 3000000
  24282 multiletter control sequences out of 15000+600000
  412536 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1366,7 +1366,7 @@ iKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Enrique/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Enrique/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Enr
 ique/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on reporte1_levitador.pdf (10 pages, 3846212 bytes).
+Output written on reporte1_levitador.pdf (10 pages, 3846267 bytes).
 PDF statistics:
  189 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
