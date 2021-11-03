@@ -1,0 +1,1374 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.28)  15 OCT 2021 13:23
+entering extended mode
+**./reporte1_levitador.tex
+(reporte1_levitador.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/base\latin1.def
+File: latin1.def 2021/02/14 v1.3d Input encoding file
+))
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count190
+\Gm@cntv=\count191
+\c@Gm@tempcnt=\count192
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks19
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+))
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks20
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen149
+))
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen150
+)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen151
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks22
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks23
+\eqnshift@=\dimen152
+\alignsep@=\dimen153
+\tagshift@=\dimen154
+\tagwidth@=\dimen155
+\totwidth@=\dimen156
+\lineht@=\dimen157
+\@envbody=\toks24
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/07/22 3.63 The Babel package
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/07/22 3.63 Babel common definitions
+\babel@savecnt=\count271
+\U@D=\dimen158
+\l@unhyphenated=\language79
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count272
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish
+.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks26
+\es@quotdepth=\count273
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/generic/bibtex\apalike.sty
+\bibhang=\skip52
+) (C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys
+.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
+.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)))
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen159
+\lightrulewidth=\dimen160
+\cmidrulewidth=\dimen161
+\belowrulesep=\dimen162
+\belowbottomsep=\dimen163
+\aboverulesep=\dimen164
+\abovetopsep=\dimen165
+\cmidrulesep=\dimen166
+\cmidrulekern=\dimen167
+\defaultaddspace=\dimen168
+\@cmidla=\count274
+\@cmidlb=\count275
+\@aboverulesep=\dimen169
+\@belowrulesep=\dimen170
+\@thisruleclass=\count276
+\@lastruleclass=\count277
+\@thisrulewidth=\dimen171
+)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen172
+\ar@mcellbox=\box52
+\extrarowheight=\dimen173
+\NC@list=\toks27
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box53
+)
+\rotheadsize=\dimen174
+\c@nlinenum=\count278
+\TeXr@lab=\toks28
+)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count279
+\lst@gtempboxa=\box54
+\lst@token=\toks29
+\lst@length=\count280
+\lst@currlwidth=\dimen175
+\lst@column=\count281
+\lst@pos=\count282
+\lst@lostspace=\dimen176
+\lst@width=\dimen177
+\lst@newlines=\count283
+\lst@lineno=\count284
+\lst@maxwidth=\dimen178
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count285
+\lst@skipnumbers=\count286
+\lst@framebox=\box55
+)
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count287
+\l__pdf_internal_box=\box56
+) (reporte1_levitador.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `reporte1_levitador.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=664.23584pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-15.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count288
+\scratchdimen=\dimen179
+\scratchbox=\box57
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count291
+\MPscratchDim=\dimen180
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks31
+)
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+\c@lstlisting=\count294
+LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
+
+ (C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
+
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 39
+.
+
+(C:\Users\Enrique\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+<levitador.png, id=1, 302.63063pt x 186.6975pt>
+File: levitador.png Graphic file (type png)
+<use levitador.png>
+Package pdftex.def Info: levitador.png  used on input line 48.
+(pdftex.def)             Requested size: 151.31494pt x 93.34851pt.
+
+Overfull \hbox (2.3423pt too wide) in paragraph at lines 59--60
+[]\OT1/cmr/m/n/10 Controlar al le-vi-ta-dor con los con-tro-la-do-res di-se~nad
+os
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--79
+
+ []
+
+[1{C:/Users/Enrique/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+ <./levitador.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 185--190
+
+ []
+
+[2]
+Package epstopdf Info: Source file: <xu_3o_c3o.eps>
+(epstopdf)                    date: 2021-09-22 21:41:26
+(epstopdf)                    size: 498906 bytes
+(epstopdf)             Output file: <xu_3o_c3o-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-09-22 21:41:44
+(epstopdf)                    size: 175117 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_c3o-eps-conver
+ted-to.pdf xu_3o_c3o.eps>
+(epstopdf)             \includegraphics on input line 258.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./xu_3o_c3o-eps-converted-to.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<xu_3o_c3o-eps-converted-to.pdf, id=25, 469.755pt x 483.8075pt>
+File: xu_3o_c3o-eps-converted-to.pdf Graphic file (type pdf)
+<use xu_3o_c3o-eps-converted-to.pdf>
+Package pdftex.def Info: xu_3o_c3o-eps-converted-to.pdf  used on input line 258
+.
+(pdftex.def)             Requested size: 258.36604pt x 266.09494pt.
+
+Overfull \hbox (7.29123pt too wide) in paragraph at lines 258--259
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <pv.eps>
+(epstopdf)                    date: 2021-09-18 17:00:40
+(epstopdf)                    size: 400136 bytes
+(epstopdf)             Output file: <pv-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-10-15 13:22:28
+(epstopdf)                    size: 142785 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=pv-eps-converted-to.
+pdf pv.eps>
+(epstopdf)             \includegraphics on input line 269.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./pv-eps-converted-to.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<pv-eps-converted-to.pdf, id=26, 1028.84375pt x 489.83pt>
+File: pv-eps-converted-to.pdf Graphic file (type pdf)
+<use pv-eps-converted-to.pdf>
+Package pdftex.def Info: pv-eps-converted-to.pdf  used on input line 269.
+(pdftex.def)             Requested size: 267.49307pt x 127.35278pt.
+
+Overfull \hbox (16.41826pt too wide) in paragraph at lines 269--270
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <xu_3o_c3o_pv.eps>
+(epstopdf)                    date: 2021-09-22 23:01:14
+(epstopdf)                    size: 1102676 bytes
+(epstopdf)             Output file: <xu_3o_c3o_pv-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-10-15 13:22:32
+(epstopdf)                    size: 316077 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_c3o_pv-eps-con
+verted-to.pdf xu_3o_c3o_pv.eps>
+(epstopdf)             \includegraphics on input line 282.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./xu_3o_c3o_pv-eps-converted-to.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<xu_3o_c3o_pv-eps-converted-to.pdf, id=27, 462.72874pt x 483.8075pt>
+File: xu_3o_c3o_pv-eps-converted-to.pdf Graphic file (type pdf)
+<use xu_3o_c3o_pv-eps-converted-to.pdf>
+Package pdftex.def Info: xu_3o_c3o_pv-eps-converted-to.pdf  used on input line 
+282.
+(pdftex.def)             Requested size: 254.50159pt x 266.09494pt.
+
+Overfull \hbox (3.42677pt too wide) in paragraph at lines 282--283
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--287
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <./xu_3o_c3o-eps-converted-to.pdf>] [4 <./pv-eps-converted-to.pdf> <./xu_3o_
+c3o_pv-eps-converted-to.pdf>] [5]
+Package epstopdf Info: Source file: <xu_3o_c2o.eps>
+(epstopdf)                    date: 2021-09-23 00:04:04
+(epstopdf)                    size: 1726352 bytes
+(epstopdf)             Output file: <xu_3o_c2o-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-09-23 00:04:16
+(epstopdf)                    size: 529700 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_c2o-eps-conver
+ted-to.pdf xu_3o_c2o.eps>
+(epstopdf)             \includegraphics on input line 453.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./xu_3o_c2o-eps-converted-to.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<xu_3o_c2o-eps-converted-to.pdf, id=53, 456.70625pt x 483.8075pt>
+File: xu_3o_c2o-eps-converted-to.pdf Graphic file (type pdf)
+<use xu_3o_c2o-eps-converted-to.pdf>
+Package pdftex.def Info: xu_3o_c2o-eps-converted-to.pdf  used on input line 453
+.
+(pdftex.def)             Requested size: 251.18921pt x 266.09494pt.
+Package epstopdf Info: Source file: <xu_3o_c2o_pc.eps>
+(epstopdf)                    date: 2021-09-23 00:31:37
+(epstopdf)                    size: 1733743 bytes
+(epstopdf)             Output file: <xu_3o_c2o_pc-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-10-15 13:22:39
+(epstopdf)                    size: 516967 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_c2o_pc-eps-con
+verted-to.pdf xu_3o_c2o_pc.eps>
+(epstopdf)             \includegraphics on input line 462.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./xu_3o_c2o_pc-eps-converted-to.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<xu_3o_c2o_pc-eps-converted-to.pdf, id=54, 460.72125pt x 483.8075pt>
+File: xu_3o_c2o_pc-eps-converted-to.pdf Graphic file (type pdf)
+<use xu_3o_c2o_pc-eps-converted-to.pdf>
+Package pdftex.def Info: xu_3o_c2o_pc-eps-converted-to.pdf  used on input line 
+462.
+(pdftex.def)             Requested size: 253.39746pt x 266.09494pt.
+
+Overfull \hbox (2.32265pt too wide) in paragraph at lines 462--463
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <xu_3o_c2o_pv.eps>
+(epstopdf)                    date: 2021-09-23 00:54:13
+(epstopdf)                    size: 114213 bytes
+(epstopdf)             Output file: <xu_3o_c2o_pv-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-09-23 00:54:19
+(epstopdf)                    size: 115323 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_c2o_pv-eps-con
+verted-to.pdf xu_3o_c2o_pv.eps>
+(epstopdf)             \includegraphics on input line 485.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./xu_3o_c2o_pv-eps-converted-to.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<xu_3o_c2o_pv-eps-converted-to.pdf, id=55, 483.8075pt x 483.8075pt>
+File: xu_3o_c2o_pv-eps-converted-to.pdf Graphic file (type pdf)
+<use xu_3o_c2o_pv-eps-converted-to.pdf>
+Package pdftex.def Info: xu_3o_c2o_pv-eps-converted-to.pdf  used on input line 
+485.
+(pdftex.def)             Requested size: 266.09494pt x 266.09494pt.
+
+Overfull \hbox (15.02013pt too wide) in paragraph at lines 485--486
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--513
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./xu_3o_c2o-eps-converted-to.pdf> <./xu_3o_c2o_pc-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 516--521
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--521
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--521
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--521
+
+ []
+
+Package epstopdf Info: Source file: <xu_3o_pdpidlqr_pc.eps>
+(epstopdf)                    date: 2021-09-23 15:34:41
+(epstopdf)                    size: 1510483 bytes
+(epstopdf)             Output file: <xu_3o_pdpidlqr_pc-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-09-23 15:34:53
+(epstopdf)                    size: 356457 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_pdpidlqr_pc-ep
+s-converted-to.pdf xu_3o_pdpidlqr_pc.eps>
+(epstopdf)             \includegraphics on input line 536.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./xu_3o_pdpidlqr_pc-eps-converted-to.pdf): PDF i
+nclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<xu_3o_pdpidlqr_pc-eps-converted-to.pdf, id=69, 421.575pt x 483.8075pt>
+File: xu_3o_pdpidlqr_pc-eps-converted-to.pdf Graphic file (type pdf)
+<use xu_3o_pdpidlqr_pc-eps-converted-to.pdf>
+Package pdftex.def Info: xu_3o_pdpidlqr_pc-eps-converted-to.pdf  used on input 
+line 536.
+(pdftex.def)             Requested size: 231.86696pt x 266.09494pt.
+Package epstopdf Info: Source file: <xu_3o_pdpidlqr_pv.eps>
+(epstopdf)                    date: 2021-09-23 15:28:53
+(epstopdf)                    size: 1523781 bytes
+(epstopdf)             Output file: <xu_3o_pdpidlqr_pv-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-09-23 15:29:08
+(epstopdf)                    size: 450453 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_pdpidlqr_pv-ep
+s-converted-to.pdf xu_3o_pdpidlqr_pv.eps>
+(epstopdf)             \includegraphics on input line 543.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./xu_3o_pdpidlqr_pv-eps-converted-to.pdf): PDF i
+nclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<xu_3o_pdpidlqr_pv-eps-converted-to.pdf, id=70, 457.71pt x 483.8075pt>
+File: xu_3o_pdpidlqr_pv-eps-converted-to.pdf Graphic file (type pdf)
+<use xu_3o_pdpidlqr_pv-eps-converted-to.pdf>
+Package pdftex.def Info: xu_3o_pdpidlqr_pv-eps-converted-to.pdf  used on input 
+line 543.
+(pdftex.def)             Requested size: 251.74129pt x 266.09494pt.
+
+Overfull \hbox (0.66647pt too wide) in paragraph at lines 543--544
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--556
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <./xu_3o_c2o_pv-eps-converted-to.pdf> <./xu_3o_pdpidlqr_pc-eps-converted-to.
+pdf>]
+Package epstopdf Info: Source file: <xu_3o_h23o_pc.eps>
+(epstopdf)                    date: 2021-09-23 15:49:35
+(epstopdf)                    size: 747918 bytes
+(epstopdf)             Output file: <xu_3o_h23o_pc-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-09-23 15:50:34
+(epstopdf)                    size: 217652 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_h23o_pc-eps-co
+nverted-to.pdf xu_3o_h23o_pc.eps>
+(epstopdf)             \includegraphics on input line 562.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./xu_3o_h23o_pc-eps-converted-to.pdf): PDF inclu
+sion: found PDF version <1.7>, but at most version <1.5> allowed
+<xu_3o_h23o_pc-eps-converted-to.pdf, id=86, 450.68375pt x 483.8075pt>
+File: xu_3o_h23o_pc-eps-converted-to.pdf Graphic file (type pdf)
+<use xu_3o_h23o_pc-eps-converted-to.pdf>
+Package pdftex.def Info: xu_3o_h23o_pc-eps-converted-to.pdf  used on input line
+ 562.
+(pdftex.def)             Requested size: 247.87682pt x 266.09494pt.
+Package epstopdf Info: Source file: <xu_3o_h23o_pv.eps>
+(epstopdf)                    date: 2021-09-23 15:58:15
+(epstopdf)                    size: 1169500 bytes
+(epstopdf)             Output file: <xu_3o_h23o_pv-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-09-23 15:58:29
+(epstopdf)                    size: 323221 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_h23o_pv-eps-co
+nverted-to.pdf xu_3o_h23o_pv.eps>
+(epstopdf)             \includegraphics on input line 585.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./xu_3o_h23o_pv-eps-converted-to.pdf): PDF inclu
+sion: found PDF version <1.7>, but at most version <1.5> allowed
+<xu_3o_h23o_pv-eps-converted-to.pdf, id=87, 444.66125pt x 483.8075pt>
+File: xu_3o_h23o_pv-eps-converted-to.pdf Graphic file (type pdf)
+<use xu_3o_h23o_pv-eps-converted-to.pdf>
+Package pdftex.def Info: xu_3o_h23o_pv-eps-converted-to.pdf  used on input line
+ 585.
+(pdftex.def)             Requested size: 244.56444pt x 266.09494pt.
+Package epstopdf Info: Source file: <xu_3o_tc23o_pc.eps>
+(epstopdf)                    date: 2021-09-23 16:10:33
+(epstopdf)                    size: 603217 bytes
+(epstopdf)             Output file: <xu_3o_tc23o_pc-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-09-23 16:11:14
+(epstopdf)                    size: 203755 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_tc23o_pc-eps-c
+onverted-to.pdf xu_3o_tc23o_pc.eps>
+(epstopdf)             \includegraphics on input line 614.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./xu_3o_tc23o_pc-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<xu_3o_tc23o_pc-eps-converted-to.pdf, id=88, 441.65pt x 483.8075pt>
+File: xu_3o_tc23o_pc-eps-converted-to.pdf Graphic file (type pdf)
+<use xu_3o_tc23o_pc-eps-converted-to.pdf>
+Package pdftex.def Info: xu_3o_tc23o_pc-eps-converted-to.pdf  used on input lin
+e 614.
+(pdftex.def)             Requested size: 242.90823pt x 266.09494pt.
+Package epstopdf Info: Source file: <xu_3o_tc23o_pv.eps>
+(epstopdf)                    date: 2021-09-23 16:20:27
+(epstopdf)                    size: 882734 bytes
+(epstopdf)             Output file: <xu_3o_tc23o_pv-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-09-23 16:20:41
+(epstopdf)                    size: 288204 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_tc23o_pv-eps-c
+onverted-to.pdf xu_3o_tc23o_pv.eps>
+(epstopdf)             \includegraphics on input line 619.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./xu_3o_tc23o_pv-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<xu_3o_tc23o_pv-eps-converted-to.pdf, id=89, 447.6725pt x 483.8075pt>
+File: xu_3o_tc23o_pv-eps-converted-to.pdf Graphic file (type pdf)
+<use xu_3o_tc23o_pv-eps-converted-to.pdf>
+Package pdftex.def Info: xu_3o_tc23o_pv-eps-converted-to.pdf  used on input lin
+e 619.
+(pdftex.def)             Requested size: 246.22063pt x 266.09494pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Overfull \hbox (3.6478pt too wide) in paragraph at lines 559--648
+\OT1/cmr/m/n/10 Como se pue-de ver en las grafi-cas el con-tro-la-dor Ho-moge
+neo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--648
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8 <./xu_3o_pdpidlqr_pv-eps-converted-to.pdf> <./xu_3o_h23o_pc-eps-converted-to
+.pdf>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Text page 9 contains only floats.
+
+
+Overfull \vbox (0.95404pt too high) has occurred while \output is active []
+
+
+[9 <./xu_3o_h23o_pv-eps-converted-to.pdf> <./xu_3o_tc23o_pc-eps-converted-to.pd
+f> <./xu_3o_tc23o_pv-eps-converted-to.pdf>]
+No file reporte1_levitador.bbl.
+[10
+
+] (reporte1_levitador.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 6552 strings out of 478927
+ 99522 string characters out of 2851587
+ 432611 words of memory out of 3000000
+ 24282 multiletter control sequences out of 15000+600000
+ 412536 words of font info for 66 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,17n,66p,714b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/Enrique/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><C:/Users/Enrique/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmbx12.pfb><C:/Users/Enrique/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Enrique/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Enrique/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Enrique/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/En
+rique/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C
+:/Users/Enrique/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><C:/Users/Enrique/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr12.pfb><C:/Users/Enrique/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr17.pfb><C:/Users/Enrique/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Enrique/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Enrique/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Enrique/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Enr
+ique/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on reporte1_levitador.pdf (10 pages, 3846212 bytes).
+PDF statistics:
+ 189 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
