@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.28)  3 NOV 2021 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.28)  3 NOV 2021 17:40
 entering extended mode
 **./reporte1_levitador.tex
 (reporte1_levitador.tex
@@ -416,10 +416,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--190
 
 [2]
 Package epstopdf Info: Source file: <xu_3o_c3o.eps>
-(epstopdf)                    date: 2021-09-22 21:41:26
-(epstopdf)                    size: 498906 bytes
+(epstopdf)                    date: 2021-11-03 17:39:26
+(epstopdf)                    size: 525178 bytes
 (epstopdf)             Output file: <xu_3o_c3o-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-09-22 21:41:44
+(epstopdf)                    date: 2021-11-03 17:39:26
 (epstopdf)                    size: 175117 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_c3o-eps-conver
 ted-to.pdf xu_3o_c3o.eps>
@@ -441,10 +441,10 @@ Overfull \hbox (7.29123pt too wide) in paragraph at lines 258--259
  []
 
 Package epstopdf Info: Source file: <pv.eps>
-(epstopdf)                    date: 2021-09-18 17:00:40
-(epstopdf)                    size: 400136 bytes
+(epstopdf)                    date: 2021-11-03 17:39:26
+(epstopdf)                    size: 420984 bytes
 (epstopdf)             Output file: <pv-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-10-15 13:22:28
+(epstopdf)                    date: 2021-11-03 17:39:26
 (epstopdf)                    size: 142785 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=pv-eps-converted-to.
 pdf pv.eps>
@@ -465,10 +465,10 @@ Overfull \hbox (16.41826pt too wide) in paragraph at lines 269--270
  []
 
 Package epstopdf Info: Source file: <xu_3o_c3o_pv.eps>
-(epstopdf)                    date: 2021-09-22 23:01:14
-(epstopdf)                    size: 1102676 bytes
+(epstopdf)                    date: 2021-11-03 17:39:26
+(epstopdf)                    size: 1162945 bytes
 (epstopdf)             Output file: <xu_3o_c3o_pv-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-10-15 13:22:32
+(epstopdf)                    date: 2021-11-03 17:39:26
 (epstopdf)                    size: 316077 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_c3o_pv-eps-con
 verted-to.pdf xu_3o_c3o_pv.eps>
@@ -525,10 +525,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [3 <./xu_3o_c3o-eps-converted-to.pdf>] [4 <./pv-eps-converted-to.pdf> <./xu_3o_
 c3o_pv-eps-converted-to.pdf>] [5]
 Package epstopdf Info: Source file: <xu_3o_c2o.eps>
-(epstopdf)                    date: 2021-09-23 00:04:04
-(epstopdf)                    size: 1726352 bytes
+(epstopdf)                    date: 2021-11-03 17:39:26
+(epstopdf)                    size: 1822574 bytes
 (epstopdf)             Output file: <xu_3o_c2o-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-09-23 00:04:16
+(epstopdf)                    date: 2021-11-03 17:39:26
 (epstopdf)                    size: 529700 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_c2o-eps-conver
 ted-to.pdf xu_3o_c2o.eps>
@@ -545,10 +545,10 @@ Package pdftex.def Info: xu_3o_c2o-eps-converted-to.pdf  used on input line 453
 .
 (pdftex.def)             Requested size: 251.18921pt x 266.09494pt.
 Package epstopdf Info: Source file: <xu_3o_c2o_pc.eps>
-(epstopdf)                    date: 2021-09-23 00:31:37
-(epstopdf)                    size: 1733743 bytes
+(epstopdf)                    date: 2021-11-03 17:39:26
+(epstopdf)                    size: 1829962 bytes
 (epstopdf)             Output file: <xu_3o_c2o_pc-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-10-15 13:22:39
+(epstopdf)                    date: 2021-11-03 17:39:26
 (epstopdf)                    size: 516967 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_c2o_pc-eps-con
 verted-to.pdf xu_3o_c2o_pc.eps>
@@ -570,10 +570,10 @@ Overfull \hbox (2.32265pt too wide) in paragraph at lines 462--463
  []
 
 Package epstopdf Info: Source file: <xu_3o_c2o_pv.eps>
-(epstopdf)                    date: 2021-09-23 00:54:13
-(epstopdf)                    size: 114213 bytes
+(epstopdf)                    date: 2021-11-03 17:39:26
+(epstopdf)                    size: 115591 bytes
 (epstopdf)             Output file: <xu_3o_c2o_pv-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-09-23 00:54:19
+(epstopdf)                    date: 2021-11-03 17:39:26
 (epstopdf)                    size: 115323 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_c2o_pv-eps-con
 verted-to.pdf xu_3o_c2o_pv.eps>
@@ -816,10 +816,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 516--521
  []
 
 Package epstopdf Info: Source file: <xu_3o_pdpidlqr_pc.eps>
-(epstopdf)                    date: 2021-09-23 15:34:41
-(epstopdf)                    size: 1510483 bytes
+(epstopdf)                    date: 2021-11-03 17:39:26
+(epstopdf)                    size: 1594710 bytes
 (epstopdf)             Output file: <xu_3o_pdpidlqr_pc-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-09-23 15:34:53
+(epstopdf)                    date: 2021-11-03 17:39:26
 (epstopdf)                    size: 356457 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_pdpidlqr_pc-ep
 s-converted-to.pdf xu_3o_pdpidlqr_pc.eps>
@@ -836,10 +836,10 @@ Package pdftex.def Info: xu_3o_pdpidlqr_pc-eps-converted-to.pdf  used on input
 line 536.
 (pdftex.def)             Requested size: 231.86696pt x 266.09494pt.
 Package epstopdf Info: Source file: <xu_3o_pdpidlqr_pv.eps>
-(epstopdf)                    date: 2021-09-23 15:28:53
-(epstopdf)                    size: 1523781 bytes
+(epstopdf)                    date: 2021-11-03 17:39:26
+(epstopdf)                    size: 1608008 bytes
 (epstopdf)             Output file: <xu_3o_pdpidlqr_pv-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-09-23 15:29:08
+(epstopdf)                    date: 2021-11-03 17:39:26
 (epstopdf)                    size: 450453 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_pdpidlqr_pv-ep
 s-converted-to.pdf xu_3o_pdpidlqr_pv.eps>
@@ -916,10 +916,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [7 <./xu_3o_c2o_pv-eps-converted-to.pdf> <./xu_3o_pdpidlqr_pc-eps-converted-to.
 pdf>]
 Package epstopdf Info: Source file: <xu_3o_h23o_pc.eps>
-(epstopdf)                    date: 2021-09-23 15:49:35
-(epstopdf)                    size: 747918 bytes
+(epstopdf)                    date: 2021-11-03 17:39:26
+(epstopdf)                    size: 788183 bytes
 (epstopdf)             Output file: <xu_3o_h23o_pc-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-09-23 15:50:34
+(epstopdf)                    date: 2021-11-03 17:39:26
 (epstopdf)                    size: 217652 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_h23o_pc-eps-co
 nverted-to.pdf xu_3o_h23o_pc.eps>
@@ -936,10 +936,10 @@ Package pdftex.def Info: xu_3o_h23o_pc-eps-converted-to.pdf  used on input line
  562.
 (pdftex.def)             Requested size: 247.87682pt x 266.09494pt.
 Package epstopdf Info: Source file: <xu_3o_h23o_pv.eps>
-(epstopdf)                    date: 2021-09-23 15:58:15
-(epstopdf)                    size: 1169500 bytes
+(epstopdf)                    date: 2021-11-03 17:39:26
+(epstopdf)                    size: 1233741 bytes
 (epstopdf)             Output file: <xu_3o_h23o_pv-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-09-23 15:58:29
+(epstopdf)                    date: 2021-11-03 17:39:26
 (epstopdf)                    size: 323221 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_h23o_pv-eps-co
 nverted-to.pdf xu_3o_h23o_pv.eps>
@@ -956,10 +956,10 @@ Package pdftex.def Info: xu_3o_h23o_pv-eps-converted-to.pdf  used on input line
  585.
 (pdftex.def)             Requested size: 244.56444pt x 266.09494pt.
 Package epstopdf Info: Source file: <xu_3o_tc23o_pc.eps>
-(epstopdf)                    date: 2021-09-23 16:10:33
-(epstopdf)                    size: 603217 bytes
+(epstopdf)                    date: 2021-11-03 17:39:26
+(epstopdf)                    size: 635461 bytes
 (epstopdf)             Output file: <xu_3o_tc23o_pc-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-09-23 16:11:14
+(epstopdf)                    date: 2021-11-03 17:39:26
 (epstopdf)                    size: 203755 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_tc23o_pc-eps-c
 onverted-to.pdf xu_3o_tc23o_pc.eps>
@@ -976,10 +976,10 @@ Package pdftex.def Info: xu_3o_tc23o_pc-eps-converted-to.pdf  used on input lin
 e 614.
 (pdftex.def)             Requested size: 242.90823pt x 266.09494pt.
 Package epstopdf Info: Source file: <xu_3o_tc23o_pv.eps>
-(epstopdf)                    date: 2021-09-23 16:20:27
-(epstopdf)                    size: 882734 bytes
+(epstopdf)                    date: 2021-11-03 17:39:26
+(epstopdf)                    size: 930948 bytes
 (epstopdf)             Output file: <xu_3o_tc23o_pv-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-09-23 16:20:41
+(epstopdf)                    date: 2021-11-03 17:39:26
 (epstopdf)                    size: 288204 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=xu_3o_tc23o_pv-eps-c
 onverted-to.pdf xu_3o_tc23o_pv.eps>
@@ -1343,7 +1343,7 @@ LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
  6552 strings out of 478927
- 99478 string characters out of 2851587
+ 99456 string characters out of 2851587
  432610 words of memory out of 3000000
  24282 multiletter control sequences out of 15000+600000
  412536 words of font info for 66 fonts, out of 8000000 for 9000
@@ -1366,7 +1366,7 @@ iKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Enrique/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Enrique/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Enr
 ique/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on reporte1_levitador.pdf (10 pages, 3846267 bytes).
+Output written on reporte1_levitador.pdf (10 pages, 3846534 bytes).
 PDF statistics:
  189 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
